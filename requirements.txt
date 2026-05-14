@@ -1,3 +1,6 @@
-rembg
+rembg[cpu]
 streamlit
 pillow
+onnxruntime
+numpy
+opencv-python-headless
