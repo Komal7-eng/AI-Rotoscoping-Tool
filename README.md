@@ -27,3 +27,8 @@ Output PNGs (with transparency) appear in /output folder
 ## About
 Built by a VFX compositor with 10 years experience,
 exploring AI-powered pipeline automation for VFX workflows.
+
+## Model Download
+Download u2net_portrait.pth from:
+https://huggingface.co/skytnt/anime-seg
+Place it in: saved_models/u2net/
